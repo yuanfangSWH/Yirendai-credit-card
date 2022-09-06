@@ -1,0 +1,360 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "信用卡办理"
+			}
+		},
+		{
+			"path": "pages/login/real-ok/real-ok",
+			"style": {
+				"navigationBarTitleText": "实名认证完成",
+				"navigationBarBackgroundColor": "#F8F8F8",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/login/real/real",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/login/realb/realb",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/login/perfect/perfect",
+			"style": {
+				"navigationBarTitleText": "完善个人信息",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "验证码登录",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		}, {
+			"path": "pages/login/validation/validation",
+			"style": {
+				"navigationBarTitleText": "输入验证码"
+			}
+		}, {
+			"path": "pages/personal/personal",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}, {
+			"path": "pages/reward/reward",
+			"style": {
+				"navigationBarTitleText": "奖励说明"
+			}
+		}, {
+			"path": "pages/promoteyh/promoteyh",
+			"style": {
+				"navigationBarTitleText": "推广海报"
+			}
+		}, {
+			"path": "pages/list/list",
+			"style": {
+				"navigationBarTitleText": "卡种列表"
+			}
+		}, {
+			"path": "pages/requesta/requesta",
+			"style": {
+				"navigationBarTitleText": "更换申请人",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/requestb/requestb",
+			"style": {
+				"navigationBarTitleText": "他人申请",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/query/query",
+			"style": {
+				"navigationBarTitleText": "查询进度"
+			}
+		}, {
+			"path": "pages/answer/answer",
+			"style": {
+				"navigationBarTitleText": "查询结果"
+			}
+		}, {
+			"path": "pages/withdrawal/withdrawal",
+			"style": {
+				"navigationBarTitleText": "提现"
+			}
+		}, {
+			"path": "pages/addcard/addcard",
+			"style": {
+				"navigationBarTitleText": "添加银行卡",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/confirmcard/confirmcard",
+			"style": {
+				"navigationBarTitleText": "银行卡信息确认"
+			}
+		}, {
+			"path": "pages/successfulcard/successfulcard",
+			"style": {
+				"navigationBarTitleText": "绑卡成功",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/solutioncard/solutioncard",
+			"style": {
+				"navigationBarTitleText": "银行卡解绑"
+			}
+		}, {
+			"path": "pages/solutioncg/solutioncg",
+			"style": {
+				"navigationBarTitleText": "解卡成功",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/withdrawalcg/withdrawalcg",
+			"style": {
+				"navigationBarTitleText": "提现成功"
+			}
+		}, {
+			"path": "pages/withdrawalyc/withdrawalyc",
+			"style": {
+				"navigationBarTitleText": "提现详情"
+			}
+		}, {
+			"path": "pages/personal/problem/problem",
+			"style": {
+				"navigationBarTitleText": "常见问题"
+			}
+		}, {
+			"path": "pages/personal/notice/notice",
+			"style": {
+				"navigationBarTitleText": "通知"
+			}
+		}, {
+			"path": "pages/personal/promote/promote",
+			"style": {
+				"navigationBarTitleText": "我的海报",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/personal/service/service",
+			"style": {
+				"navigationBarTitleText": "在线客服"
+			}
+		}, {
+			"path": "pages/personal/team/team",
+			"style": {
+				"navigationBarTitleText": "下属团队"
+			}
+		}, {
+			"path": "pages/personal/customer/customer",
+			"style": {
+				"navigationBarTitleText": "客户管理"
+			}
+		}, {
+			"path": "pages/personal/record/record",
+			"style": {
+				"navigationBarTitleText": "收支明细"
+			}
+		}, {
+			"path": "pages/personal/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		}, {
+			"path": "pages/personal/order/order",
+			"style": {
+				"navigationBarTitleText": "订单列表"
+			}
+		}, {
+			"path": "pages/applyfor/applyfor",
+			"style": {
+				"navigationBarTitleText": "请登录"
+			}
+		}, {
+			"path": "pages/integral/integral",
+			"style": {
+				"navigationBarTitleText": "积分商城"
+			}
+		}, {
+			"path": "pages/request/request",
+			"style": {
+				"navigationBarTitleText": "申请信用卡"
+			}
+		}, {
+			"path": "pages/become/become",
+			"style": {
+				"navigationBarTitleText": "成为合伙人",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/registered/registered",
+			"style": {
+				"navigationBarTitleText": "合伙人说明",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}
+		,{
+		    "path" : "pages/registeredsr/registeredsr",
+		    "style" : {
+				"navigationBarTitleText": "合伙人注册",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}
+		, {
+			"path": "pages/registeredcg/registeredcg",
+			"style": {
+				"navigationBarTitleText": "注册成功",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/login/agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "用户注册协议",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/login/stipulate/stipulate",
+			"style": {
+				"navigationBarTitleText": "软件使用规范",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/login/agreementyun/agreementyun",
+			"style": {
+				"navigationBarTitleText": "云账户费用结算服务协议",
+				"navigationBarBackgroundColor": "#F8F8F8"
+			}
+		}, {
+			"path": "pages/public/public",
+			"style": {
+				"navigationBarTitleText": " "
+			}
+		}
+	    ,{
+            "path" : "pages/integral/qgrecord/qgrecord",
+            "style" : {
+				"navigationBarTitleText": "抢购记录"
+			}
+        }
+        ,{
+            "path" : "pages/seal/seal",
+            "style" : {
+				"navigationBarTitleText": "账号冻结"
+			}
+        }
+        ,{
+            "path" : "pages/operation/operation",
+            "style" : {
+				"navigationBarTitleText": "操作指南"
+			}
+        }
+        ,{
+            "path" : "pages/integral/details/details",
+            "style" : {
+				"navigationBarTitleText": "商品详情"
+			}
+        }
+        
+        ,{
+            "path" : "pages/integral/activity/activity",
+            "style" : {
+				"navigationBarTitleText": "卡鱼活动"
+			}
+        }
+        ,{
+            "path" : "pages/article/article",
+            "style" : {
+				"navigationBarTitleText": "文章"
+			}
+        },
+		{
+		    "path" : "pages/article/content/content",
+		    "style" : {
+				"navigationBarTitleText": "文章详情"
+			}
+		}
+    ],
+	//tab 栏
+	"tabBar": {
+		//tab 上的文字默认颜色
+		"color": "#98A7B8",
+		//tab 上的文字选中时的颜色
+		"selectedColor": "#2682FF",
+		//tab 的背景色
+		"backgroundColor": "#FFFFFF",
+		//tabbar 上边框的颜色，仅支持 black/white
+		"borderStyle": "black",
+		"list": [{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/index/index",
+				//图片路径
+				"iconPath": "static/images/home_icon.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/images/home_iconx.png",
+				//tab 上按钮文字
+				"text": "首页"
+			},
+			{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/article/article",
+				//图片路径
+				"iconPath": "static/images/sheq_icon.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/images/sheq_iconx.png",
+				//tab 上按钮文字
+				"text": "文章"
+			},
+			{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/integral/integral",
+				//图片路径
+				"iconPath": "static/images/jinf_icon.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/images/jinf_iconx.png",
+				//tab 上按钮文字
+				"text": "商城"
+			},
+			{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/personal/personal",
+				//图片路径
+				"iconPath": "static/images/grzx_icon.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/images/grzx_iconx.png",
+				//tab 上按钮文字
+				"text": "个人中心"
+			}
+		]
+	},
+	//设置默认页面的窗口表现
+	"globalStyle": {
+		//默认是default,设置为custom→所有页面都没有原生导航
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "信用卡超市",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	}
+}

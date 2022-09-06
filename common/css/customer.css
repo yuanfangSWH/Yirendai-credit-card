@@ -1,0 +1,241 @@
+.center {
+	width: 683upx;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cus-div {
+	width: 683upx;
+	height: 209upx;
+	background: linear-gradient(-51deg, rgba(85, 117, 255, 1), rgba(60, 175, 255, 1));
+	border-radius: 16upx;
+	margin-top: 50upx;
+	margin-bottom: 60upx;
+	display: flex;
+}
+
+.cus-div-t {
+	flex: 1;
+	height: 100%;
+}
+
+.cus-div-a {
+	padding-top: 46upx;
+	padding-bottom: 19upx;
+	text-align: center;
+	font-size: 26upx;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.cus-div-b {
+	text-align: center;
+	font-size: 58upx;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.cus-tab {
+	width: 100%;
+	height: 130upx;
+	display: flex;
+}
+
+.cus-tab view {
+	width: 190upx;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 32upx;
+	text-align: center;
+	color: #3C434D;
+	padding-bottom: 10upx;
+}
+
+.cus-tab-mk {
+	margin-right: 20upx;
+}
+
+.selected {
+	font-size: 40upx;
+	font-weight: bold;
+	color: #222427;
+	border-bottom: 4px #5490F5 solid;
+}
+
+.cus-yk {
+	width: 684upx;
+	height: auto;
+	background: rgba(255, 255, 255, 1);
+	box-shadow: 0px 2px 15px 1px rgba(235, 244, 255, 1);
+	border-radius: 8upx;
+	padding-bottom: 20upx;
+	margin-bottom: 29upx;
+}
+
+.cus-yk-xia {
+	width: 626upx;
+	height: 70upx;
+	border-bottom: 1px #F0F4F7 solid;
+	display: flex;
+	padding-top: 8upx;
+}
+
+.cus-yk-toux {
+	width: 44upx;
+	height: 44upx;
+	padding-top: 13upx;
+	padding-right: 32upx;
+}
+
+.cus-yk-toux image {
+	width: 44upx;
+	height: 44upx;
+	border-radius:30upx;
+}
+
+.cus-yk-nic {
+	width: 394upx;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 26upx;
+	color: #000000;
+	font-weight: bold;
+}
+
+.cus-yk-dh {
+	flex: 1;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 26upx;
+	color: #99A8BC;
+}
+
+.cus-yk-mi {
+	width: 626upx;
+	font-size: 24upx;
+	color: #AEB7C2;
+	padding-top: 20upx;
+}
+
+.cus-yk-xib {
+	width: 626upx;
+	height: 70upx;
+	display: flex;
+	padding-top: 10upx;
+}
+
+.cus-yk-img {
+	width: 34upx;
+	height: 34upx;
+	padding-right: 17upx;
+	padding-top: 12upx;
+}
+
+.cus-yk-img image {
+	width: 34upx;
+	height: 34upx;
+}
+
+.cus-yk-yh {
+	width: 180upx;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 34upx;
+	color: #000000;
+	font-weight: bold;
+}
+
+.cus-yk-zt {
+	width: 150upx;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 26upx;
+	color: #AEB7C2;
+}
+
+.cus-yk-sj {
+	width: 270upx;
+	height: 70upx;
+	line-height: 70upx;
+	font-size: 22upx;
+	color: #AEB7C2;
+}
+
+.cus-null {
+	width: 100%;
+	height: 580upx;
+}
+
+.cus-null image {
+	width: 238upx;
+	height: 238upx;
+	display: block;
+	padding-top: 70upx;
+	padding-bottom: 47upx;
+}
+
+.cus-null-wz {
+	width: 100%;
+	font-size: 26upx;
+	color: #C8D9ED;
+	text-align: center;
+}
+
+.cus-null-an {
+	width: 178upx;
+	height: 54upx;
+	line-height: 54upx;
+	border: 1px solid rgba(50, 146, 255, 1);
+	border-radius: 27px;
+	font-size: 28upx;
+	color: #3292FF;
+	text-align: center;
+	margin-top: 33upx;
+}
+
+.cus-wei {
+	width: 684upx;
+	height: 172upx;
+	background: rgba(255, 255, 255, 1);
+	box-shadow: 0px 2px 15px 1px rgba(235, 244, 255, 1);
+	border-radius: 8upx;
+	display: flex;
+	margin-bottom: 29upx;
+}
+
+.cus-wei-toux {
+	width: 80upx;
+	height: 80upx;
+	padding-top: 43upx;
+	padding-left: 38upx;
+	padding-right: 38upx;
+}
+
+.cus-wei-toux image {
+	width: 80upx;
+	height: 80upx;
+	border-radius:60upx;
+}
+
+.cus-wei-div {
+	flex: 1;
+	height: 80upx;
+}
+
+.cus-wei-a {
+	font-size: 32upx;
+	color: #182130;
+	padding-top: 20upx;
+}
+
+.cus-wei-b {
+	font-size: 26upx;
+	color: #99A8BC;
+	padding-top: 10upx;
+}
+
+.cus-wei-c {
+	font-size: 22upx;
+	color: #99A8BC;
+	padding-top: 10upx;
+}
